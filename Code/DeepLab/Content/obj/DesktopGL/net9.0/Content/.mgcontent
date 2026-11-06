@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/zaidc/Downloads/Poo/DeepLab/Code/DeepLab/Content/../../../../../settingsButton.png</File>
+    <File>C:/Users/zaidc/Downloads/Poo/DeepLab/Code/DeepLab/Content/DefLogo.png</File>
+    <File>C:/Users/zaidc/Downloads/Poo/DeepLab/Code/DeepLab/Content/exitButton.png</File>
+    <File>C:/Users/zaidc/Downloads/Poo/DeepLab/Code/DeepLab/Content/fondo1.png</File>
+    <File>C:/Users/zaidc/Downloads/Poo/DeepLab/Code/DeepLab/Content/fondo2.png</File>
+    <File>C:/Users/zaidc/Downloads/Poo/DeepLab/Code/DeepLab/Content/playButton.png</File>
+    <File>C:/Users/zaidc/Downloads/Poo/DeepLab/Code/DeepLab/Content/PlayerIdle.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>settingsButton.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
